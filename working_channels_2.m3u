@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ABC 8 Dallas TX"tvg-id="WFAADT1.us"tvg-logo="https://i.imgur.com/3dK1ocU.png"group-title="General",ABC 8 Dallas TX (WFAA) (1080p)
 https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
+
 #EXTINF:-1 tvg-name="ABC 25 News Central Texas"tvg-id="KXXVDT1.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"group-title="General",ABC 25 News Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+
 #EXTINF:-1 tvg-name="ACC Network"tvg-id="ACCNetwork.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png"group-title="Live Channels",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-name="Adult Swim East"tvg-id="CartoonNetwork.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png"group-title="Live Channels",Adult Swim East
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
+
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMC.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png"group-title="Live Channels",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-name="Animal Planet East FHD"tvg-id="AnimalPlanet.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg"group-title="Live Channels",Animal Planet East
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
 #EXTINF:-1 tvg-name="Anime All Day"tvg-id="AnimeAllDay.us"tvg-logo="https://i.imgur.com/bYZtd0G.png"group-title="Animation",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
 #EXTINF:-1 tvg-name="AXS TV NOW"tvg-id="AXSTVNOW.us"tvg-logo="https://i.imgur.com/lYa793q.png"group-title="Documentary",AXS TV NOW
